@@ -1,0 +1,4 @@
+# BLECentralBenchmarkApp
+BluetoothLowEnergyのBeacon電波受信強度を測定するためのAndroidアプリ。
+
+現時点ではAndroid5.0以上の端末で動きます。
